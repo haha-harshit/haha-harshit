@@ -19,6 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Parcel.js: A bundler to fall in love with!](https://medium.com/@geraharshitkumar/parcel-js-a-bundler-to-fall-in-love-with-b08203760054?source=rss-f74606a80b71------2)
+- [Difference between ‘async’ and ‘defer’ in JS!](https://medium.com/@geraharshitkumar/difference-between-async-and-defer-in-js-9cc99264f15f?source=rss-f74606a80b71------2)
+- [Introduce yourself to CDNs!](https://medium.com/@geraharshitkumar/introduce-yourself-to-cdns-by-harshit-7be2a27a09?source=rss-f74606a80b71------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
