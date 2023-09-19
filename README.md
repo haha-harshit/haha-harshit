@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haha-harshit" alt="haha-harshit" /></a> </p>
 
-- 🔭 I’m currently working on **Zilli - A food ordering app**
+- 🔭 Building **Zilli - A food ordering app**
 
 - 🌱 I’m currently learning **React.js**
 
